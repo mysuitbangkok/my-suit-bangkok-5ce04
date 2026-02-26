@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-suit-bangkok-5ce04.pages.dev/sitemap.xml
