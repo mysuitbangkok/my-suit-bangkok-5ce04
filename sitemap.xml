@@ -1,39 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/bespoke-suits-tailoring-in-platinum-mall-bangkok.html</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/bespoke-suits-tailoring-in-platinum-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/custom-shirt-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/custom-shirt-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/wedding-suit-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/wedding-suit-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/custom-dress-tailoring-in-bangkok.html</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/custom-dress-tailoring-in-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my-suit-bangkok-5ce04.pages.dev/same-day-tailoring-in-bangkok.html</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://mysuitbangkok.github.io/my-suit-bangkok-5ce04/same-day-tailoring-in-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/bespoke-suits-tailoring-in-platinum-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/custom-shirt-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/wedding-suit-tailoring-in-platinum-fashion-mall-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/custom-dress-tailoring-in-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://my-suit-bangkok-5ce04.netlify.app/same-day-tailoring-in-bangkok.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
   </url>
 </urlset>
